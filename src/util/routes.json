@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "/",
+    "title": "Home",
+    "active": true
+  },
+  {
+    "slug": "/about",
+    "title": "About",
+    "active": true
+  },
+  {
+    "slug": "/book",
+    "title": "Book",
+    "active": true
+  },
+  {
+    "slug": "/contact",
+    "title": "Contact",
+    "active": true
+  }
+]
